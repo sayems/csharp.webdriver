@@ -1,4 +1,4 @@
-Selenium WebDriver in C#
+Selenium WebDriver in C# ( With Easy Understanding )
 ===========
 
 This repository contains Webdriver code examples, exercises and tutorials for developers.
@@ -21,7 +21,7 @@ Here is a list of websites where you can practice Selenium webdriver. You will f
 - [DemoQA](http://demoqa.com/)
 - [OrangeHRM Enterprise](http://enterprise.demo.orangehrmlive.com/symfony/web/index.php/auth/login)
 
-## Examples with:
+## Examples with Details:
 
 - [ ] Mouse hover
 - [ ] Drag & Drop
@@ -101,7 +101,7 @@ Parallel execution of methods within a class is not yet implemented. More inform
 
 
 
-### Contributions
+### Contributions are always Welcome( jai javan jai Kisan )
 
 If you have any code examples you would like to contribute to this repository, please feel free to open a pull request.
 
