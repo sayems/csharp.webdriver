@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 using NUnit.Framework;
 using Selenium.core.browsers;
 
@@ -20,6 +21,7 @@ namespace Selenium.core
         public void OneTimeTearDown()
         {
             Driver.Page.Quit();
+            Thread.Sleep(1000);
         }
     }
 }
